@@ -41,7 +41,7 @@ npm install
 # Запуск приложения
 npm start
 
-GitHub репозиторий: [https://github.com/glushchenko-git/contacts-book.git]
+GitHub репозиторий: [https://github.com/glushchenko-git/contact-book.git]
 
 Демонстрация работы:
 
