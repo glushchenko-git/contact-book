@@ -43,7 +43,7 @@ npm start
 
 GitHub репозиторий: [https://github.com/glushchenko-git/contact-book.git]
 
-
+Демонстрация работы.....
 Главный экран приложения:
 <img width="680" height="363" alt="main" src="https://github.com/user-attachments/assets/f7fc903d-aaa5-4ce0-9e20-8f6cd4780846" />
 
