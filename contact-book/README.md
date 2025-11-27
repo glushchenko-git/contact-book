@@ -45,12 +45,18 @@ GitHub репозиторий: [https://github.com/glushchenko-git/contact-book.
 
 Демонстрация работы --
 Главный экран приложения:
+
+
 <img width="680" height="363" alt="main" src="https://github.com/user-attachments/assets/f7fc903d-aaa5-4ce0-9e20-8f6cd4780846" />
 
 Процесс добавления нового контакта:
+
+
 <img width="717" height="390" alt="add-contact" src="https://github.com/user-attachments/assets/35ee648f-f8c8-4151-921f-37d5db9c0621" />
 
 Отображение списка сохраненных контактов:
+
+
 <img width="693" height="393" alt="contact-list" src="https://github.com/user-attachments/assets/d8128206-2587-478e-b1ed-a137cc71a036" />
 
 
