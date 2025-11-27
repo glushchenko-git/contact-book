@@ -34,7 +34,6 @@ ContactItem - отдельный элемент контакта
 bash
 # Клонирование репозитория
 git clone <repository-url>
-<img width="680" height="363" alt="main" src="https://github.com/user-attachments/assets/f7fc903d-aaa5-4ce0-9e20-8f6cd4780846" />
 
 # Установка зависимостей
 npm install
