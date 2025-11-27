@@ -45,13 +45,13 @@ GitHub репозиторий: [https://github.com/glushchenko-git/contact-book.
 
 Демонстрация работы:
 
-screenshots/main.png
+screenshots/main.jpg
 Главный экран приложения с формой добавления и списком контактов
 
-screenshots/add-contact.png
+screenshots/add-contact.jpg
 Процесс добавления нового контакта
 
-screenshots/contact-list.png
+screenshots/contact-list.jpg
 Отображение списка сохраненных контактов
 
 Выводы
