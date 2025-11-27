@@ -34,6 +34,7 @@ ContactItem - отдельный элемент контакта
 bash
 # Клонирование репозитория
 git clone <repository-url>
+<img width="680" height="363" alt="main" src="https://github.com/user-attachments/assets/f7fc903d-aaa5-4ce0-9e20-8f6cd4780846" />
 
 # Установка зависимостей
 npm install
@@ -45,10 +46,11 @@ GitHub репозиторий: [https://github.com/glushchenko-git/contact-book.
 
 Демонстрация работы:
 
-screenshots/main.jpg
-Главный экран приложения с формой добавления и списком контактов
+<img width="680" height="363" alt="main" src="https://github.com/user-attachments/assets/f7fc903d-aaa5-4ce0-9e20-8f6cd4780846" />
+Главный экран приложения 
+вления и списком контактов
 
-screenshots/add-contact.jpg
+<img width="717" height="390" alt="add-contact" src="https://github.com/user-attachments/assets/35ee648f-f8c8-4151-921f-37d5db9c0621" />
 Процесс добавления нового контакта
 
 screenshots/contact-list.jpg
